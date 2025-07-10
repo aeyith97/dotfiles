@@ -1,0 +1,8 @@
+In this example, we want to push wofi into git. Camni lah
+
+mv ~/.config/wofi ~/dotfiles/.config/
+ln -s ~/dotfiles/.config/wofi ~/.config/wofi
+cd ~/dotfiles
+git add .config/wofi
+git commit -m "Add wofi config"
+git push
