@@ -1,8 +1,8 @@
-In this example, we want to push wlogout into git. Camni lah
+In this example, we want to push aeyith into git. Camni lah
 
-mv ~/.config/wlogout ~/dotfiles/.config/
-ln -s ~/dotfiles/.config/wlogout ~/.config/wlogout
+mv ~/.config/aeyith ~/dotfiles/.config/
+ln -s ~/dotfiles/.config/aeyith ~/.config/aeyith
 cd ~/dotfiles
-git add .config/wlogout
-git commit -m "Add wlogout config"
+git add .config/aeyith
+git commit -m "Add aeyith config"
 git push
