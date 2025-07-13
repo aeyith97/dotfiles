@@ -1,2 +1,2 @@
 #!/bin/sh
-nautilus --new-window
+nemo

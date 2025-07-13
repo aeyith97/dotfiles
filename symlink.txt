@@ -1,8 +1,8 @@
-In this example, we want to push aeyith into git. Camni lah
+In this example, we want to push rofi into git. Camni lah
 
-mv ~/.config/aeyith ~/dotfiles/.config/
-ln -s ~/dotfiles/.config/aeyith ~/.config/aeyith
+mv ~/.config/rofi ~/dotfiles/.config/
+ln -s ~/dotfiles/.config/rofi ~/.config/rofi
 cd ~/dotfiles
-git add .config/aeyith
-git commit -m "Add aeyith config"
+git add .config/rofi
+git commit -m "Add rofi config"
 git push
