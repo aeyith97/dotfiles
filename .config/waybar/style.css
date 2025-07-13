@@ -220,9 +220,9 @@ window#waybar.empty #window {
     color: #dc2f2f;
 }
 
-#custom-ml4w-welcome {
+#custom-aeyith-welcome {
     margin-right: 12px;
-    background-image: url("../assets/ml4w-icon.svg");
+    background-image: url("file:///home/aeyith/.config/waybar/icons/aeyith.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -231,7 +231,7 @@ window#waybar.empty #window {
 
 #custom-chatgpt {
     margin-right: 16px;
-    background-image: url("../assets/openai.svg");
+    background-image: url("file:///home/aeyith/.config/waybar/icons/openai.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
