@@ -149,7 +149,7 @@ label {{
 
 image {{
     monitor =
-    path = $ml4w_cache_folder/square_wallpaper.png
+    path = $aeyith_cache_folder/square_wallpaper.png
     size = 280
     rounding = 40
     border_size = 4
