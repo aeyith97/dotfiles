@@ -1,5 +1,5 @@
 # dotfiles
-Just my personal dotfiles for primary PC
+Just my personal dotfiles for primary PC, Heavily inspired by the awesome ML4W, Stephan Raabe
 
 ## Screenshots
 
