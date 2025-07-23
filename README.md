@@ -1,6 +1,7 @@
 # dotfiles
-Just my personal dotfiles for primary PC, Heavily inspired by the awesome ML4W, Stephan Raabe \n
-For repo, do visit this link \n
+Just my personal dotfiles for primary PC,  
+Heavily inspired by the awesome ML4W, Stephan Raabe  
+For repo, do visit this link  
 https://github.com/aeyith97/dotfiles
 
 ## Screenshots
